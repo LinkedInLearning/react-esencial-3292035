@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nombre": "Smartphone",
+        "precio": 599.99,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "status":"selected"
+    },
+    {
+        "id": 2,
+        "nombre": "Laptop",
+        "precio": 999.00,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit aute irure reprehenderit"
+    },
+    {
+        "id": 3,
+        "nombre": "SmartTV",
+        "precio": 349.50,
+        "descripcion": "Lorem ipsum dolor sit amet, aute irure dolor in reprehenderit consectetur adipiscing elit"
+    },
+    {
+        "id": 4,
+        "nombre": "Altavoces",
+        "precio": 89.95,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur aute irure dolor in reprehenderitadipiscing elit"
+    },
+    {
+        "id": 5,
+        "nombre": "Tablet",
+        "precio": 899.00,
+        "descripcion": "Lorem ipsum dolor sit amet, aute irure dolor in reprehenderit aute irure dolor in reprehenderit"
+    },
+    {
+        "id": 6,
+        "nombre": "Audífonos",
+        "precio": 79.99,
+        "descripcion": "Lorem ipsum dolor sit amet, aute irure dolor in reprehenderit, consectetur adipiscing elit"
+    }
+]

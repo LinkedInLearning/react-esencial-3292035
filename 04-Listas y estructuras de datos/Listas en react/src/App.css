@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.container{
+  display: flex;
+  align-items: baseline;
+}
+
+.container div{
+  font-size: 50px;
+}
+.container p{
+  font-size: 20px;
+  padding: 0 30px;
+}
+
+.box{
+  border: solid 1px #000;
+  padding: 30px;
+  background-color:cornsilk;
+}
+
+li {
+  list-style-type: none;
+}
+
+.productos{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+  flex-basis: 33.333%;
+}
+.item{
+  background-color:cornsilk;
+  border: solid 1px #000;
+  padding: 30px;
+  margin: 5px;
+}

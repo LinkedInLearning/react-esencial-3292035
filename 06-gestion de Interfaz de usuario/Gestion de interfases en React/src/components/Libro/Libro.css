@@ -1,0 +1,35 @@
+
+
+.item {
+    border: solid 1px #000;
+    border-radius: 10px;
+    background-color: #e1ebe9;
+    padding: 10px;
+    margin: 5px;
+    width: 224px;
+    height: 110px;
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .item h2 {
+    display: block;
+    padding: 0;
+    margin: 0;
+    flex-basis: 100%;
+  }
+  
+  .item span {
+    font-size: 13px;
+    flex: 1;
+    align-self: flex-end;
+  }
+
+ 
+  .default.card{
+    background-color: #ededed;
+  }
+  .seleccionado.card{
+    background-color: #b8b7b7;
+  }
+ 
