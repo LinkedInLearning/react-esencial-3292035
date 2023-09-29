@@ -35,7 +35,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/react-esencial-22877511/desplegar-tus-proyectos-de-forma-profesional-con-react
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHqWB--jAR7ug/learning-public-crop_675_1200/0/1695966422807?e=1696575600&v=beta&t=kBmYazBnUuyny6mpkLJS8yV5XrbXfPeivpbEpNQ_pVk
 
 [1]: # (End of ES-Instruction ###############################################################################################)
